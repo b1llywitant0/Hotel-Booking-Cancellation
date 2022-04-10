@@ -9,7 +9,7 @@ This notebook serves as an exercise project for supervised (classification) mach
 
 ## Background
 <p align='justify' style="font-weight: bold;">
-Hotel usually prepares for the arrival of their customers. By giving them the best first impression, hopefully, it will increase the customer satisfactions that will lead to more profit and popularity for the hotel. However, how does the hotel distinguish which customers that will surely come? In this project, we will aid the hotel with booking cancellation prediction.
+Hotel usually prepares for the arrival of their customers. By giving them the best first impression, hopefully, it will increase the customer satisfactions that will lead to more profit and popularity for the hotel. However, how does the hotel distinguish which customers that will surely come, so they won't make unnecessary preparations for non-existent customers (cancelled booking)? In this project, we will aid the hotel with booking cancellation prediction.
 </p>
 
 ## Dataset Source
